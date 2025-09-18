@@ -28,5 +28,3 @@ Skills: Laravel || PHP || JavaScript || Next.js || WordPress || MySQL || MSSQL |
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/yousufali8180/contributions?format=svg&private=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=yousufali8180)  
-
